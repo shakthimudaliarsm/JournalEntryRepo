@@ -1,0 +1,7 @@
+com\testing\JournalApp\JournalAppApplication.class
+com\testing\JournalApp\Controller\JournalEntryController2.class
+com\testing\JournalApp\Controller\HealthCheck.class
+com\testing\JournalApp\Controller\JournalEntryController.class
+com\testing\JournalApp\Repository\JournalEntryRepository.class
+com\testing\JournalApp\Entity\JournalEntry.class
+com\testing\JournalApp\Service\JournalEntryService.class
